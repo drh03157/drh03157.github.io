@@ -1,0 +1,32 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>The Gingko Tree</title>
+	<style type="text/css">
+		body{background-color:gold}
+		.special {font-size:9pt}
+		img{float:right;height:220;width:172}
+		div{width:600px}
+	</style>
+</head>
+<body>
+		<div>
+			<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/Users/drh03157/OneDrive%20-%20University%20of%20Georgia/Lab09/ginko.jpg">
+			<th> <h3>The Golden Ginkgo</h3></th>
+			<p>The ginkgo <span style=font-style:italic>(Ginkgo biloba)</span> is a medium-sized tree native to the Orient, but widely planted in 
+		the Southestern US. The ginkgo is considered a “living fossil,” in that there are no closely 
+		related species still extant. Ginkgos are prized for their vivid yellow fall leaves. </p>
+			<p>An unusual biological feature of the ginkgo is that it is a gymnosperm (“naked seed”), 
+		meaning that the ginkgo seed is not encased in a fruit. In this the ginkgo resembles pine trees, 
+		although the ginkgo is deciduous (loses its leaves in the winter).</p>
+			<p>Ginkgos can be extremely long lived; one ginkgo in Shandong province, China is estimated 
+		to be 3,000 years old. </p>
+		</div>
+			<div class='special'>
+				<p>	Source: en.wikipedia.org.</p> 
+				<p>	Image credit: Fisher Yu. http://www.panoramio.com/photo/61783968 </p>
+			</div>
+				<p> </p>
+</body>
+</html>
